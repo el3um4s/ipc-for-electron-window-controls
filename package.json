@@ -1,6 +1,6 @@
 {
   "name": "@el3um4s/ipc-for-electron-window-controls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Allow the renderer to close, minimize and maximize the window (for desktop Electron)",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
