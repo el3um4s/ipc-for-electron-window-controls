@@ -57,7 +57,7 @@
   },
   "homepage": "https://github.com/el3um4s/ipc-for-electron-window-controls#readme",
   "devDependencies": {
-    "@el3um4s/ipc-for-electron": "^1.0.1",
+    "@el3um4s/ipc-for-electron": "^1.0.2",
     "@types/jest": "^28.1.7",
     "@types/node": "^18.7.6",
     "@typescript-eslint/eslint-plugin": "^5.33.1",
