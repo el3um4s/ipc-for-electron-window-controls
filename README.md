@@ -1,4 +1,4 @@
-# IPC for Electron: Window Controls (NOT YET TESTED)
+# IPC for Electron: Window Controls
 
 Allow the renderer to close, minimize and maximize the window (for desktop Electron)
 
