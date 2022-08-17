@@ -29,7 +29,6 @@ In the renderer file:
 
 ```ts
 import windowControls from "@el3um4s/renderer-for-electron-window-controls";
-let isWindows = false;
 
 windowControls.minimize();
 windowControls.maximize();
